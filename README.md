@@ -1,2 +1,0 @@
-# SovyRight
-Created with CodeSandbox
